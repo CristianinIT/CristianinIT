@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cristian, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Cristian, an <a href="https://linkedin.com/in/cristian-arias-13b878259">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
